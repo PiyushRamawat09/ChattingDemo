@@ -1,0 +1,6 @@
+export { default as Home } from './Home'
+export { default as LoginScreen } from './LoginScreen'
+export { default as SignUpScreen } from './SignUpScreen'
+export { default as SplashScreen } from './SplashScreen'
+export { default as AddtoChatScreen } from './AddtoChatScreen'
+export { default as ChatScreen } from './ChatScreen'

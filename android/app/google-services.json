@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178851409261",
+    "project_id": "socialloginapp-b3ef7",
+    "storage_bucket": "socialloginapp-b3ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178851409261:android:85d865e4e8f67551cf7e64",
+        "android_client_info": {
+          "package_name": "com.chattingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178851409261-r8dg8vn0jhs0rg80bqij4vf6eng4pbrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjgffY__bqrip5npSYKkGrcskybVeMDCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178851409261-r8dg8vn0jhs0rg80bqij4vf6eng4pbrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
